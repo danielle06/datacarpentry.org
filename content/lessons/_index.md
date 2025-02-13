@@ -45,6 +45,8 @@ Interested in teaching these materials? We have an onboarding video and accompan
 
 Please note that workshop materials for working with Genomics data in R in “alpha” development. These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries’ official lesson offerings.
 
+*Data Carpentry (Genomics) workshops come with an additional fee for the use of Amazon Web Services (AWS) instances provided by The Carpentries. Please visit our [terms of agreement]() to learn more about the process of scheduling a Genomics workshop.*
+
 ### Lessons
 
 {{< table >}}
